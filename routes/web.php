@@ -6,3 +6,7 @@ Route::get('/', function () {
     return view('login.index');
 });
 
+Route::get('/register', function () {
+    return view('register.index');
+});
+

@@ -7,7 +7,7 @@
 </head>
 <body class="bg-white min-h-screen flex flex-col">
 
-    <!-- De balke van boven -->
+    <!-- De balkje van boven -->
     <header class="bg-indigo-900 h-14 flex items-center px-6 shadow-md">
         <img src="{{ asset('images/aquafin.png') }}" alt="Aquafin" class="h-8">
     </header>
