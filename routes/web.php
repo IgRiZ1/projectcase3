@@ -3,6 +3,6 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('index.login.index');
+    return view('login.index');
 });
 
