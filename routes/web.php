@@ -13,3 +13,7 @@ Route::get('/register', function () {
 Route::get('/startpagina', function () {
     return view('startpagina.index');
 });
+
+Route::get('/producten', function () {
+    return view('producten.index');
+});

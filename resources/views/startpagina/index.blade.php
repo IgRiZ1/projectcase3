@@ -110,42 +110,43 @@
                 <div class="card product-card w-100">
                     <div class="product-badge">Bevestigingsmateriaal</div>
                     <img src="/images/bevestigingsmateriaal.jpg" class="product-img" alt="Bevestigingsmateriaal">
-                    <a href="#" class="custom-btn">More</a>
+                    <a href="/producten" class="custom-btn">More</a>
+                    
                 </div>
             </div>
             <div class="col d-flex">
                 <div class="card product-card w-100">
                     <div class="product-badge">Persoonlijke beschermingsmiddelen</div>
                     <img src="/images/beschermingsmiddelen.jpg" class="product-img" alt="Persoonlijke beschermingsmiddelen">
-                    <a href="#" class="custom-btn">More</a>
+                    <a href="/producten" class="custom-btn">More</a>
                 </div>
             </div>
             <div class="col d-flex">
                 <div class="card product-card w-100">
                     <div class="product-badge">Gereedschap (manueel & elektrisch)</div>
                     <img src="/images/Gereedschap.jpg" class="product-img" alt="Gereedschap">
-                    <a href="#" class="custom-btn">More</a>
+                    <a href="/producten" class="custom-btn">More</a>
                 </div>
             </div>
             <div class="col d-flex">
                 <div class="card product-card w-100">
                     <div class="product-badge">Technische onderhoudsmaterialen</div>
                     <img src="/images/onderhoudsmaterialen.jpg" class="product-img" alt="Technische onderhoudsmaterialen">
-                    <a href="#" class="custom-btn">More</a>
+                    <a href="/producten" class="custom-btn">More</a>
                 </div>
             </div>
             <div class="col d-flex">
                 <div class="card product-card w-100">
                     <div class="product-badge">Specifieke Aquafin/riolering gerelateerde tools</div>
                     <img src="/images/tools.jpg" class="product-img" alt="Specifieke tools">
-                    <a href="#" class="custom-btn">More</a>
+                    <a href="/producten" class="custom-btn">More</a>
                 </div>
             </div>
             <div class="col d-flex">
                 <div class="card product-card w-100">
                     <div class="product-badge">Diversen / Verbruiksgoederen</div>
                     <img src="/images/verbruiksgoederen.jpg" class="product-img" alt="Verbruiksgoederen">
-                    <a href="#" class="custom-btn">More</a>
+                    <a href="/producten" class="custom-btn">More</a>
                 </div>
             </div>
         </div>
