@@ -10,3 +10,6 @@ Route::get('/register', function () {
     return view('register.index');
 });
 
+Route::get('/startpagina', function () {
+    return view('startpagina.index');
+});
